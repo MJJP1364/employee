@@ -14,6 +14,7 @@ void main() async {
   Supabase.initialize(url: supabaseUrl, anonKey: supabasekEY);
   runApp(const MyApp());
 }
+
 // salam
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
