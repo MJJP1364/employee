@@ -1,1 +1,1 @@
-
+class Shopp extends GetxController{}
